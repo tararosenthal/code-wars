@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ConwayLifeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-19T22:26:07" hostname="DESKTOP-02MLGRN" time="0.111">
-  <properties/>
-  <testcase name="testGlider()" classname="ConwayLifeTest" time="0.111"/>
-  <system-out><![CDATA[Glider
-[[1, 0, 0], [0, 1, 1], [1, 1, 0]]]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
