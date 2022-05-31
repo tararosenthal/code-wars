@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="LongestSubstringWithoutRepeatingCharactersTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-30T18:53:04" hostname="DESKTOP-02MLGRN" time="0.057">
-  <properties/>
-  <testcase name="test1()" classname="LongestSubstringWithoutRepeatingCharactersTest" time="0.042"/>
-  <testcase name="test2()" classname="LongestSubstringWithoutRepeatingCharactersTest" time="0.008"/>
-  <testcase name="test3()" classname="LongestSubstringWithoutRepeatingCharactersTest" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
