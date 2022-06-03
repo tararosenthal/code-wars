@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ReverseIntTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-02T19:24:59" hostname="DESKTOP-02MLGRN" time="0.042">
-  <properties/>
-  <testcase name="test1()" classname="ReverseIntTest" time="0.039"/>
-  <testcase name="test2()" classname="ReverseIntTest" time="0.001"/>
-  <testcase name="test3()" classname="ReverseIntTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

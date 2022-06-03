@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringToIntegerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-03T21:17:14" hostname="DESKTOP-02MLGRN" time="0.04">
+  <properties/>
+  <testcase name="test1()" classname="StringToIntegerTest" time="0.035"/>
+  <testcase name="test2()" classname="StringToIntegerTest" time="0.002"/>
+  <testcase name="test3()" classname="StringToIntegerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
